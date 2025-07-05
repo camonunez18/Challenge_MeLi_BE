@@ -1,0 +1,94 @@
+{
+  "id": 1,
+  "name": "Samsung Galaxy A55 5G Dual SIM 256 GB azul oscuro 8 GB RAM",
+  "description": {
+    "shortDescription": "Dispositivo desbloqueado para que elijas tu operador. Memoria RAM de 8 GB y memoria interna de 256 GB.",
+    "fullDescription": "Capacidad y eficiencia\nCon su procesador Snapdragon 7 Gen 2 y 8 GB de RAM, su computadora logrará un alto rendimiento con una alta velocidad de transmisión de contenido y ejecutará varias aplicaciones al mismo tiempo, sin demoras.\n\nCapacidad de almacenamiento ilimitado\nOlvídate de borrar. Con su memoria interna de 256 GB podrás descargar todos los archivos y aplicaciones que necesites, guardar fotos y almacenar tus películas, series y videos favoritos para reproducirlos cuando quieras."
+  },
+  "price": 439.00,
+  "originalPrice": 599.00,
+  "discountPercentage": 27.0,
+  "images": [
+    "http://googleusercontent.com/image_collection/image_retrieval/12488350602664173885",
+    "http://googleusercontent.com/image_collection/image_retrieval/14195687217179486172",
+    "http://googleusercontent.com/image_collection/image_retrieval/14195687217179486172",
+    "http://googleusercontent.com/image_collection/image_retrieval/14195687217179486172",
+    "http://googleusercontent.com/image_collection/image_retrieval/14195687217179486172"
+  ],
+  "colors": [
+    {
+      "name": "Azul Oscuro",
+      "code": "azul_oscuro",
+      "hexCode": "#00008B"
+    },
+    {
+      "name": "Negro",
+      "code": "negro",
+      "hexCode": "#000000"
+    },
+    {
+      "name": "Violeta",
+      "code": "violeta",
+      "hexCode": "#EE82EE"
+    }
+  ],
+  "comments": [
+    {
+      "user": "Alice C.",
+      "text": "Great product, exactly as described! The screen is vibrant.",
+      "rating": 5.0
+    },
+    {
+      "user": "Bob M.",
+      "text": "Fast shipping, good quality for the price. Battery life is decent.",
+      "rating": 4.0
+    },
+    {
+      "user": "Charlie D.",
+      "text": "It's okay, but I expected more features. Camera is good though.",
+      "rating": 3.0
+    }
+  ],
+  "totalReviews": 3,
+  "sellerInfo": {
+    "name": "Samsung Tienda Oficial",
+    "contact": "soporte@samsung.com",
+    "rating": 4.8,
+    "reputation": "Tienda Oficial",
+    "logoUrl": "https://via.placeholder.com/80?text=Samsung+Logo"
+  },
+  "characteristics": [
+    {
+      "name": "Tamaño de la pantalla",
+      "value": "6.6 pulgadas"
+    },
+    {
+      "name": "Memoria RAM",
+      "value": "8 GB"
+    },
+    {
+      "name": "Memoria interna",
+      "value": "256 GB"
+    },
+    {
+      "name": "Cámara principal",
+      "value": "50 MP"
+    },
+    {
+      "name": "Cámara frontal",
+      "value": "32 MP"
+    },
+    {
+      "name": "Batería",
+      "value": "5000 mAh"
+    },
+    {
+      "name": "Desbloqueo",
+      "value": "Huella dactilar y reconocimiento facial"
+    },
+    {
+      "name": "Con NFC",
+      "value": "Sí"
+    }
+  ]
+}
