@@ -1,4 +1,4 @@
-FROM openjdk:latest AS build
+FROM maven:latest AS build
 
 WORKDIR /app
 

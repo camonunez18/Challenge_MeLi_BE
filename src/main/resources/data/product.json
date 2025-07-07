@@ -9,11 +9,11 @@
   "originalPrice": 599.00,
   "discountPercentage": 27.0,
   "images": [
-    "http://googleusercontent.com/image_collection/image_retrieval/12488350602664173885",
-    "http://googleusercontent.com/image_collection/image_retrieval/14195687217179486172",
-    "http://googleusercontent.com/image_collection/image_retrieval/14195687217179486172",
-    "http://googleusercontent.com/image_collection/image_retrieval/14195687217179486172",
-    "http://googleusercontent.com/image_collection/image_retrieval/14195687217179486172"
+    "https://http2.mlstatic.com/D_NQ_NP_2X_800035-MLA81367078349_122024-F.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_2X_621964-MLA81364948571_122024-F.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_2X_777643-MLA75395342152_042024-F.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_2X_725539-MLA80825742603_112024-F.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_2X_832248-MLA81366749957_122024-F.webp"
   ],
   "colors": [
     {
@@ -55,7 +55,7 @@
     "contact": "soporte@samsung.com",
     "rating": 4.8,
     "reputation": "Tienda Oficial",
-    "logoUrl": "https://via.placeholder.com/80?text=Samsung+Logo"
+    "logoUrl": "https://http2.mlstatic.com/D_NQ_NP_789332-MLA74975093701_032024-G.webp"
   },
   "characteristics": [
     {
