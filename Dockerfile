@@ -1,4 +1,4 @@
-FROM openjdk:17-jdk-slim AS build
+FROM openjdk:latest AS build
 
 WORKDIR /app
 
@@ -10,7 +10,7 @@ COPY src ./src
 
 RUN mvn clean install
 
-FROM openjdk:17-jre-slim
+FROM openjdk:latest
 
 WORKDIR /app
 
